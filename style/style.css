@@ -4935,3 +4935,12 @@ body {
   margin-left: 10px;
 }
 /*# sourceMappingURL=style.css.map */
+
+.atext
+{
+  width: 220px !important;
+  height: 50px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
